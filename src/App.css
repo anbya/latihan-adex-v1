@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.header_login{
+    font-size: 20px;
+    color: black;
+}
